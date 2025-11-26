@@ -63,5 +63,5 @@
 ## 9. Links
 
 - GitHub Repository: https://github.com/Esatjahan/SCEMS-Environment-Monitoring
-- Wokwi Project: (to be added)
+- Wokwi Project: (https://wokwi.com/projects/448685686274316289)
 - Demo Video (Google Drive): (to be added)
